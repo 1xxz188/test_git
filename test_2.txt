@@ -1,10 +1,1 @@
-first xxz2
-main xxz
-dev2 test1
-main 111
-main 222
-dev 1234
-dev555
-dev666
-dev777
-dev888
+main 1
